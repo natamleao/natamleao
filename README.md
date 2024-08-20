@@ -1,4 +1,4 @@
-# Olá, eu sou Natam Leao - Estudante de Ciência da Computação
+# Olá, eu sou Natam Leao
 
 <div align="center">
   <a href="https://github.com/natamleao">
