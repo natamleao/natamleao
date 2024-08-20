@@ -1,4 +1,4 @@
-# Olá, eu sou Natam Leao - Estudante de Ciência da Computação e entusiasta de ML/DL
+# Olá, eu sou Natam Leao - Estudante de Ciência da Computação
 
 <div align="center">
   <a href="https://github.com/natamleao">
