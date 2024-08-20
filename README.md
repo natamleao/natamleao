@@ -14,8 +14,4 @@
   <a href="https://www.linkedin.com/in/natam-leao-ferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div align="center">
-  <img align="right" alt="Natam-gif" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/f3032d0eb66338f9237fe7c6fc4a4177.gif" alt="Gif">
-</div>
-
 ![Snake animation](https://github.com/natamleao/natamleao/blob/output/github-contribution-grid-snake.svg)
