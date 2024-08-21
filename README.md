@@ -7,16 +7,22 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natamleao&layout=compact&hide_border=true&title_color=bd93f9&text_color=bd93f9&bg_color=282a36" />
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=natamleao&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusAlvarez&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/natamleao/natamleao/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/natamleao/natamleao/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/natamleao/natamleao/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatheusAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=natamleao&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
-<a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
+  <a href="mailto:ferreira.natamleao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/natam-leao-ferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
  
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -49,33 +55,10 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<div align="center">
+<!--<div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
-<br></div>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{natamleao}/count.svg" /></p> 
+<br></div>-->
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=footer"/>
-
-
-
-
-<div align="center">
-  <a href="https://github.com/natamleao">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natamleao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natamleao&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
-##
-
-<div align="center">  
-  <a href="mailto:ferreira.natamleao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/natam-leao-ferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/natamleao/natamleao/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/natamleao/natamleao/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/natamleao/natamleao/output/github-contribution-grid-snake.svg">
-</picture>
