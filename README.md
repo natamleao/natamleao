@@ -15,6 +15,8 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/natamleao/natamleao/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
+<br><br>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=natamleao&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -23,7 +25,8 @@
   <a href="mailto:ferreira.natamleao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/natam-leao-ferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
- <!--
+
+<!--
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
