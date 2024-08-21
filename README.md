@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Serif+Text&pause=1000&color=BD93F9&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Natam+Leão+Ferreira;I+am+from+Cametá,+PA;I+study+computer+science+at+UFC;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Serif+Text&pause=1000&color=BD93F9&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Natam+Leão+Ferreira;I+am+from+Cametá,+PA;I+study+Computer+Science+at+UFC;Be+Welcome!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=natamleao&show_icons=true&count_private=true&hide_border=true&title_color=bd93f9&icon_color=bd93f9&text_color=f8f8f2&bg_color=282a36" alt="Natam Leão Ferreira github stats" /> 
