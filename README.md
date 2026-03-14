@@ -1,75 +1,119 @@
-<!-- HEADER ANIMADO -->
+<!-- HEADER -->
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&descSize=20&descAlign=50&descAlignY=60&color=gradient" />
 </div>
 
-<h1 align="center">Hey 👋 What's Up?</h1>
+<!-- NOME ANIMADO -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=fcffff&size=45&center=true&vCenter=true&width=1000&lines=Natam+Le%C3%A3o;Computer+Science+Student;Python+%7C+C%2B%2B+%7C+Linux;Cybersecurity+Enthusiast" />
+</p>
 
-<!-- SKILLS -->
-<div align="center" style="margin: 30px 0;">
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
-    <img src="https://skillicons.dev/icons?i=py" height="60" alt="python" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode" />
-  </div>
-</div>
+---
 
-<br>
+# 👨‍💻 About Me
 
-<!-- CONTATOS -->
-<div align="center" style="margin: 20px 0;">
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-    <a href="https://www.linkedin.com/in/natam-leao-ferreira/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" />
-    </a>
-    <a href="https://discord.com/users/natam_ferreira" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="30" />
-    </a>
-    <a href="mailto:ferreira.natamleao@gmail.com">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" />
-    </a>
-    <a href="https://wa.me/55889997379438">
-      <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="30" />
-    </a>
-  </div>
-</div>
+- 🎓 Computer Science student  
+- 🐍 Focused on **Python and C/C++**  
+- 🐧 Linux enthusiast  
+- 🔐 Interested in **Cybersecurity and Pentesting**  
+- 📚 Passionate about **Mathematics and Theoretical Physics**
 
-<br>
+---
 
-<!-- STATS -->
-<div align="center" style="margin: 20px 0;">
+# 🧠 Skills
 
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=natamleao&hide_title=false&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=false" height="150" alt="stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natamleao&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages" />
-  </div>
+<div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=natamleao&theme=dracula&hide_border=false" height="150" alt="streak" />
-
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=natamleao&theme=dracula&area=true" width="100%" />
+<img src="https://skillicons.dev/icons?i=py,cpp,c,git,linux,postgres,vscode,jupyter" />
 
 </div>
 
-<br>
+---
 
-<!-- PACMAN GRAPH -->
-<div align="center" style="margin: 20px 0;">
-  <img src="https://github.com/natamleao/natamleao/blob/a5248de48e0d2538efabbbc02fdd37aab39b72c5/pacman.svg" alt="pacman contributions" />
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=natamleao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natamleao&layout=compact&langs_count=8&theme=dracula"/>
+
 </div>
 
-<!-- VISITORS BADGE -->
-<div align="center" style="margin: 20px 0;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=natamleao.natamleao" alt="visitor badge" />
+<div align="center">
+
+<img height="165" src="https://streak-stats.demolab.com?user=natamleao&theme=dracula"/>
+
 </div>
+
+---
+
+# 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=natamleao&theme=dracula&area=true"/>
+
+---
+
+# 📊 Contribution Details
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natamleao&theme=dracula&utcOffset=-3" />
+
+</div>
+
+---
+
+# 🕹 Pac-Man Contributions
+
+<div align="center">
+
+<img src="https://github.com/natamleao/natamleao/blob/a5248de48e0d2538efabbbc02fdd37aab39b72c5/pacman.svg"/>
+
+</div>
+
+---
+
+# 🌐 Contact
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/natam-leao-ferreira/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ferreira.natamleao@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/natam_ferreira">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/55889997379438">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 👀 Visitors
+
+<div align="center">
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=natamleao.natamleao"/>
+
+</div>
+
+---
+
+> **Building. Learning. Improving.**
+
+---
 
 <!-- FOOTER -->
+
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&fontSize=70&fontColor=FFFFFF&color=gradient" />
 </div>
