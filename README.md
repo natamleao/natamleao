@@ -3,20 +3,29 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&descSize=20&descAlign=50&descAlignY=60&color=gradient" />
 </div>
 
-<!-- NOME ANIMADO -->
+<!-- NOME GRANDE -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=fcffff&size=45&center=true&vCenter=true&width=1000&lines=Natam+Le%C3%A3o;Computer+Science+Student;Python+%7C+C%2B%2B+%7C+Linux;Cybersecurity+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=60&height=100&duration=3000&color=fcffff&center=true&vCenter=true&width=900&lines=Natam+Le%C3%A3o" />
+</p>
+
+<!-- INFORMAÇÕES -->
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=28&duration=3000&color=fcffff&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Python+%7C+C%2B%2B+%7C+Linux;Studying+Neural+Networks;Mathematics+Enthusiast" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💻 About me
 
 - 🎓 Computer Science student  
 - 🐍 Focused on **Python and C/C++**  
 - 🐧 Linux enthusiast  
-- 🔐 Interested in **Cybersecurity and Pentesting**  
-- 📚 Passionate about **Mathematics and Theoretical Physics**
+- 🧠 Studying **Neural Networks and Machine Learning**  
+- 📚 Deep interest in **Mathematics**
 
 ---
 
@@ -30,7 +39,7 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub stats
 
 <div align="center">
 
@@ -48,13 +57,13 @@
 
 ---
 
-# 📈 Activity Graph
+# 📈 Activity graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=natamleao&theme=dracula&area=true"/>
 
 ---
 
-# 📊 Contribution Details
+# 📊 Contribution details
 
 <div align="center">
 
@@ -64,7 +73,7 @@
 
 ---
 
-# 🕹 Pac-Man Contributions
+# 🕹 Pac-Man contributions
 
 <div align="center">
 
