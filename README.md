@@ -27,33 +27,31 @@
 
 # 🚀 Projects
 
-## 🧠 Perceptron from Scratch (Python)
+## 🧠 Perceptron Neural Network (Python)
 
-- Implementação do zero de um perceptron (sem frameworks)
-- Aplicação prática de:
-  - Produto escalar  
-  - Função de ativação  
-  - Regra de atualização de pesos  
+- Implementação do zero de um perceptron
+- Sem uso de frameworks
 - Foco em entender os fundamentos de redes neurais
+- Aplicação de álgebra linear básica e atualização de pesos
 
-> Simples, mas construído para entender o que acontece por trás dos frameworks.
-
----
-
-## ⚙️ Low-level experiments (C/C++)
-
-- Programas simples focados em lógica e controle de memória  
-- Treino de base para raciocínio computacional  
-- Exploração de estruturas fundamentais  
+> Projeto principal — foco em aprendizado real, não abstração.
 
 ---
 
-## 🔢 Problem solving
+## 🎵 Playlist Manager
 
-- Scripts voltados para lógica e resolução de problemas  
-- Exercícios para fortalecer o raciocínio  
+- Sistema simples para gerenciamento de playlists
+- Manipulação de dados e estrutura de organização
 
-> Construindo base sólida antes de aumentar a complexidade.
+---
+
+## 💰 Price Comparison (C / C++)
+
+- Programas básicos para comparação de preços
+- Exercício de lógica e estrutura de dados
+- Implementado em C e C++ para treino de baixo nível
+
+> Projetos voltados para construção de base e raciocínio.
 
 ---
 
