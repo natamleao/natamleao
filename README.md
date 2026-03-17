@@ -61,11 +61,11 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=natamleao&theme=dracula" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=natamleao&theme=dracula" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=natamleao&theme=dracula"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=natamleao&theme=dracula"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=natamleao&theme=dracula" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=natamleao&theme=dracula&utcOffset=-3" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=natamleao&theme=dracula"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=natamleao&theme=dracula&utcOffset=-3"/>
 
 </div>
 
