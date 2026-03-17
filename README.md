@@ -68,10 +68,9 @@
 # 📊 GitHub stats
 
 <div align="center">
-  
-<img img width="50%" src="https://github-readme-stats.vercel.app/api?username=natamleao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="200"/>
 
-<img width="48%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natamleao&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+<img width="50%" height="210" src="https://github-readme-stats.vercel.app/api?username=natamleao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img width="48%" height="210" style="margin-left:-10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natamleao&layout=compact&langs_count=8&theme=dracula"/>
 
 </div>
 
