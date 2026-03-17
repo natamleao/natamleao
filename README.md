@@ -24,7 +24,7 @@
 - 🎓 Computer Science student  
 - 🐍 Focused on **Python and C/C++**  
 - 🐧 Linux enthusiast  
-- 🧠 Studying **Neural Networks and Machine Learning**  
+- 🧠 Studying **Neural Networks**  
 - 📚 Deep interest in **Mathematics**
 
 ---
