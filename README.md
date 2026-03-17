@@ -3,18 +3,14 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&descSize=20&descAlign=50&descAlignY=60&color=gradient" />
 </div>
 
-<!-- NOME GRANDE -->
+<!-- NOME -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=60&height=100&duration=3000&color=fcffff&center=true&vCenter=true&width=900&lines=Natam+Le%C3%A3o" />
 </p>
 
-<!-- INFORMAÇÕES -->
+<!-- FRASE -->
 <p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=28&duration=3000&color=fcffff&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Python+%7C+C%2B%2B+%7C+Linux;Studying+Neural+Networks;Mathematics+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=24&duration=3000&color=fcffff&center=true&vCenter=true&width=900&lines=Building+logic+through+code;Focused+on+low-level+thinking;Learning+how+to+solve+hard+problems" />
 </p>
 
 ---
@@ -22,19 +18,49 @@
 # 👨‍💻 About me
 
 - 🎓 Computer Science student  
-- 🐍 Focused on **Python and C/C++**  
-- 🐧 Linux enthusiast  
-- 🧠 Studying **Neural Networks**  
-- 📚 Deep interest in **Mathematics**
+- ⚙️ Focused on **C/C++ and Python**  
+- 🐧 Linux user  
+- 🧠 Interested in **problem solving and deep reasoning**  
+- 📚 Building consistency and discipline  
+
+---
+
+# 🚀 Projects
+
+## 🧠 Perceptron from Scratch (Python)
+
+- Implementação do zero de um perceptron (sem frameworks)
+- Aplicação prática de:
+  - Produto escalar  
+  - Função de ativação  
+  - Regra de atualização de pesos  
+- Foco em entender os fundamentos de redes neurais
+
+> Simples, mas construído para entender o que acontece por trás dos frameworks.
+
+---
+
+## ⚙️ Low-level experiments (C/C++)
+
+- Programas simples focados em lógica e controle de memória  
+- Treino de base para raciocínio computacional  
+- Exploração de estruturas fundamentais  
+
+---
+
+## 🔢 Problem solving
+
+- Scripts voltados para lógica e resolução de problemas  
+- Exercícios para fortalecer o raciocínio  
+
+> Construindo base sólida antes de aumentar a complexidade.
 
 ---
 
 # 🧠 Skills
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=py,cpp,c,git,linux,postgres,vscode,jupyter" />
-
 </div>
 
 ---
@@ -42,57 +68,25 @@
 # 📊 GitHub stats
 
 <div align="center">
+  
+<img img width="50%" src="https://github-readme-stats.vercel.app/api?username=natamleao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="200"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=natamleao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natamleao&layout=compact&langs_count=8&theme=dracula"/>
-
-</div>
-
-<div align="center">
-
-<img height="165" src="https://streak-stats.demolab.com?user=natamleao&theme=dracula"/>
+<img width="48%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natamleao&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📊 Profile metrics
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=natamleao&theme=dracula"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=natamleao&theme=dracula"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=natamleao&theme=dracula"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=natamleao&theme=dracula&utcOffset=-3"/>
-
-</div>
-
----
-
-# 📈 Activity graph
+# 📈 Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=natamleao&theme=dracula&area=true"/>
-
----
-
-# 📊 Contribution details
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natamleao&theme=dracula&utcOffset=-3" />
-
-</div>
 
 ---
 
 # 🕹 Pac-Man contributions
 
 <div align="center">
-
 <img src="https://github.com/natamleao/natamleao/blob/a5248de48e0d2538efabbbc02fdd37aab39b72c5/pacman.svg"/>
-
 </div>
 
 ---
@@ -124,19 +118,16 @@
 # 👀 Visitors
 
 <div align="center">
-
 <img src="https://visitor-badge.laobi.icu/badge?page_id=natamleao.natamleao"/>
-
 </div>
 
 ---
 
-> **Building. Learning. Improving.**
+> Consistency beats intensity.
 
 ---
 
 <!-- FOOTER -->
-
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&fontSize=70&fontColor=FFFFFF&color=gradient" />
 </div>
