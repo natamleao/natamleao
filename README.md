@@ -10,7 +10,7 @@
 
 <!-- FRASE -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=24&duration=3000&color=fcffff&center=true&vCenter=true&width=900&lines=Building+logic+through+code;Focused+on+low-level+thinking;Learning+how+to+solve+hard+problems" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=24&duration=3000&color=fcffff&center=true&vCenter=true&width=900&lines=Obsessed+with+understanding+how+things+really+work;Focused+on+low-level+thinking;Learning+how+to+solve+hard+problems" />
 </p>
 
 ---
@@ -27,7 +27,9 @@
 
 # 🚀 Projects
 
-Para ver todos os meus projetos, acesse meu [portfólio](https://natamleao.github.io/portfolio/).
+- 🧠 **Perceptron Neural Network** — implementação do zero  
+
+🔗 Veja todos os projetos no meu [portfólio](https://natamleao.github.io/portfolio/)
 
 ---
 
@@ -87,6 +89,10 @@ Para ver todos os meus projetos, acesse meu [portfólio](https://natamleao.githu
 
 </div>
 
+<p align="center">
+💬 Want to discuss AI, mathematics or low-level systems? Join my Discord.
+</p>
+
 ---
 
 # 👀 Visitors
@@ -97,7 +103,7 @@ Para ver todos os meus projetos, acesse meu [portfólio](https://natamleao.githu
 
 ---
 
-> Consistency beats intensity.
+> I don't chase shortcuts. I build foundations.
 
 ---
 
