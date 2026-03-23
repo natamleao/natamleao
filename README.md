@@ -77,7 +77,7 @@ Para ver todos os meus projetos, acesse meu [portfólio](https://natamleao.githu
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://discord.com/users/natam_ferreira">
+<a href="https://discord.gg/sPAar7dJ">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
