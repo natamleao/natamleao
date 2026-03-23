@@ -27,31 +27,7 @@
 
 # 🚀 Projects
 
-## 🧠 Perceptron Neural Network (Python)
-
-- Implementação do zero de um perceptron
-- Sem uso de frameworks
-- Foco em entender os fundamentos de redes neurais
-- Aplicação de álgebra linear básica e atualização de pesos
-
-> Projeto principal — foco em aprendizado real, não abstração.
-
----
-
-## 🎵 Playlist Manager
-
-- Sistema simples para gerenciamento de playlists
-- Manipulação de dados e estrutura de organização
-
----
-
-## 💰 Price Comparison (C / C++)
-
-- Programas básicos para comparação de preços
-- Exercício de lógica e estrutura de dados
-- Implementado em C e C++ para treino de baixo nível
-
-> Projetos voltados para construção de base e raciocínio.
+Para ver todos os meus projetos, acesse meu [portfólio](https://natamleao.github.io/portfolio/).
 
 ---
 
