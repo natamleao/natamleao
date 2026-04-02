@@ -29,9 +29,9 @@
 
 - 🧠 ***Perceptron Neural Network*** — aprendizado supervisionado implementado do zero, com visualização da fronteira de decisão
 - ⚖️ ***Compare Sorts (Heap vs Insertion)*** — comparação prática entre complexidades com medição real de tempo
-📊 ***Adaptive Hash Table (Digit Analysis)*** — exploração de hashing guiado pela distribuição dos dados
-🔌 ***TCP Multi-Client Server*** — servidor com múltiplos clientes e diferentes serviços via sockets
-🌐 ***Task Manager (Web + PostgreSQL)*** — sistema completo integrando frontend, backend e banco de dados
+- 📊 ***Adaptive Hash Table (Digit Analysis)*** — exploração de hashing guiado pela distribuição dos dados
+- 🔌 ***TCP Multi-Client Server*** — servidor com múltiplos clientes e diferentes serviços via sockets
+- 🌐 ***Task Manager (Web + PostgreSQL)*** — sistema completo integrando frontend, backend e banco de dados
 
 🔗 Veja todos os projetos no meu [portfólio](https://natamleao.github.io/portfolio/)
 
