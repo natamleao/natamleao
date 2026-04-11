@@ -15,29 +15,29 @@
 
 ---
 
-# 👨‍💻 About me
+# About me
 
-- 🎓 Computer Science student  
-- ⚙️ Focused on **C/C++ and Python**  
-- 🐧 Linux user  
-- 🧠 Interested in **problem solving and deep reasoning**  
-- 📚 Building consistency and discipline  
-
----
-
-# 🚀 Projects
-
-- 🧠 ***Perceptron Neural Network*** — aprendizado supervisionado implementado do zero, com visualização da fronteira de decisão
-- ⚖️ ***Compare Heap vs Insertion Sorts*** — comparação prática entre complexidades com medição real de tempo
-- 📊 ***Adaptive Hash Table (Digit Analysis)*** — exploração de hashing guiado pela distribuição dos dados
-- 🔌 ***TCP Multi-Client Server*** — servidor com múltiplos clientes e diferentes serviços via sockets
-- 🌐 ***Task Manager (Web + PostgreSQL)*** — sistema completo integrando frontend, backend e banco de dados
-
-🔗 Veja todos os projetos no meu [portfólio](https://natamleao.github.io/portfolio/)
+- Computer Science student  
+- Focused on **C/C++ and Python**  
+- Linux user  
+- Interested in **problem solving and deep reasoning**  
+- Building consistency and discipline  
 
 ---
 
-# 🧠 Skills
+# Projects
+
+- ***Perceptron Neural Network*** — aprendizado supervisionado implementado do zero, com visualização da fronteira de decisão
+- ***Compare Heap vs Insertion Sorts*** — comparação prática entre complexidades com medição real de tempo
+- ***Adaptive Hash Table (Digit Analysis)*** — exploração de hashing guiado pela distribuição dos dados
+- ***TCP Multi-Client Server*** — servidor com múltiplos clientes e diferentes serviços via sockets
+- ***Task Manager (Web + PostgreSQL)*** — sistema completo integrando frontend, backend e banco de dados
+
+Veja todos os projetos no meu [portfólio](https://natamleao.github.io/portfolio/)
+
+---
+
+# Skills
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,cpp,c,git,linux,postgres,vscode,jupyter" />
@@ -45,7 +45,7 @@
 
 ---
 <!--
-# 📊 GitHub stats
+# GitHub stats
 
 <div align="center">
 
@@ -57,13 +57,13 @@
 
 ---
 -->
-# 📈 Activity
+# Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=natamleao&theme=dracula&area=true"/>
 
 ---
 
-# 🕹 Pac-Man contributions
+# Pac-Man contributions
 
 <div align="center">
 <img src="https://github.com/natamleao/natamleao/blob/a5248de48e0d2538efabbbc02fdd37aab39b72c5/pacman.svg"/>
@@ -71,7 +71,7 @@
 
 ---
 
-# 🌐 Contact
+# Contact
 
 <div align="center">
 
@@ -94,12 +94,12 @@
 </div>
 
 <p align="center">
-💬 Want to discuss AI, mathematics or low-level systems? Join my Discord.
+Want to discuss AI, mathematics or low-level systems? Join my Discord.
 </p>
 
 ---
 
-# 👀 Visitors
+# Visitors
 
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=natamleao.natamleao"/>
