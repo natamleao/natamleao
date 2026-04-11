@@ -44,7 +44,7 @@ See all projects in my [portfolio](https://natamleao.github.io/portfolio/)
 </div>
 
 ---
-<!--
+
 # GitHub stats
 
 <div align="center">
@@ -56,7 +56,7 @@ See all projects in my [portfolio](https://natamleao.github.io/portfolio/)
 </div>
 
 ---
--->
+
 # Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=natamleao&theme=dracula&area=true"/>
