@@ -20,9 +20,9 @@
 
 # About me
 
-I'm a Computer Science student who is still figuring out where Computer Science will take me.
+I'm a Computer Science student still figuring out where Computer Science will take me.
 
-I'm interested in many different areas — from **algorithms and programming to artificial intelligence, cybersecurity and computer systems**. I don't have a single specialization in mind yet, and I'm okay with that.
+I'm curious about many parts of the field — **algorithms, artificial intelligence, cybersecurity, computer systems, networking and programming**. I haven't chosen a single specialization yet, and I don't think I need to.
 
 What I do know is that I enjoy **mathematics, difficult problems and understanding things deeply**.
 
@@ -30,7 +30,7 @@ What I do know is that I enjoy **mathematics, difficult problems and understandi
 * Linux user
 * Interested in algorithms, computation and problem solving
 * Passionate about mathematics
-* Curious about the fundamental principles behind things
+* Drawn to fundamental ideas and first principles
 * Currently focused on strengthening my foundations
 
 > I don't need to know exactly where I'm going yet.
@@ -42,11 +42,9 @@ What I do know is that I enjoy **mathematics, difficult problems and understandi
 
 Computer Science is a huge field, and I'm still exploring it.
 
-Some of the areas that have caught my attention:
-
 <div align="center">
 
-### 🔭 Areas I'm Exploring
+### Areas I'm Exploring
 
 <br>
 
@@ -67,93 +65,79 @@ Some of the areas that have caught my attention:
 
 </div>
 
-I don't see these as boxes I need to choose between right now.
+I'm not trying to force these interests into a single career path.
 
-**I'm experimenting, building and learning until something pulls me deeper.**
+**I'm exploring, building and learning until something pulls me deeper.**
 
 ---
 
 # Mathematics
 
-Mathematics is the part of my intellectual journey that I feel most strongly about.
+Mathematics is the subject that pulls my curiosity the strongest.
 
-I want to develop a **serious mathematical foundation**, not simply learn enough mathematics to pass a course.
+I want to build a **serious mathematical foundation** — not just enough mathematics to pass exams, but enough to actually reason with it.
 
 My long-term ambition is to become mathematically strong enough to eventually study **theoretical physics** seriously.
 
-That means starting from the foundations and going much deeper over time:
+The path is long, and it isn't perfectly linear. For now, I'm building the foundations.
 
 <div align="center">
 
-### 📐 Mathematical Journey
+### Mathematical Journey
 
 <br>
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="33%">
 
-<b>Foundations</b><br><br>
+<b>FOUNDATIONS</b>
+
+<br><br>
 
 Arithmetic<br>
-↓<br>
 Algebra<br>
-↓<br>
-Geometry & Trigonometry
+Geometry<br>
+Trigonometry
 
 </td>
 
-<td width="50"></td>
+<td align="center" width="33%">
 
-<td align="center">
+<b>CORE</b>
 
-<b>Core Mathematics</b><br><br>
+<br><br>
 
 Calculus<br>
-↓<br>
 Linear Algebra<br>
-↓<br>
 Differential Equations<br>
-↓<br>
 Probability & Statistics
 
 </td>
-</tr>
 
-<tr>
-<td colspan="3" height="30"></td>
-</tr>
+<td align="center" width="33%">
 
-<tr>
-<td align="center">
+<b>DEEPER MATHEMATICS</b>
 
-<b>Advanced Mathematics</b><br><br>
+<br><br>
 
 Real Analysis<br>
-↓<br>
-Abstract Algebra
-
-</td>
-
-<td width="50"></td>
-
-<td align="center">
-
-<b>Long-Term Direction</b><br><br>
-
-Mathematical Physics<br>
-↓<br>
-Theoretical Physics
+Abstract Algebra<br>
+Complex Analysis<br>
+Differential Geometry
 
 </td>
 </tr>
 </table>
 
+<br>
+
+<b>Mathematical Physics → Theoretical Physics</b>
+
 </div>
 
-It's a long road.
-
-That's exactly what makes it interesting.
+> It's a long road.
+> That's exactly what makes it interesting.
 
 ---
 
@@ -179,7 +163,7 @@ A practical comparison between **Heap Sort and Insertion Sort**, combining theor
 
 ### Adaptive Hash Table — Digit Analysis
 
-An exploration of hashing strategies influenced by the **distribution of the input data**.
+An exploration of hashing strategies influenced by the **distribution of input data**.
 
 **Explored:** data structures, hashing and algorithmic reasoning.
 
@@ -204,7 +188,7 @@ A complete application integrating **frontend, backend and PostgreSQL**.
 <div align="center">
 
 <a href="https://natamleao.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-BD93F9?style=for-the-badge&logo=rocket&logoColor=282A36"/>
+  <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-BD93F9?style=for-the-badge&labelColor=282A36&color=BD93F9"/>
 </a>
 
 </div>
@@ -219,17 +203,15 @@ A complete application integrating **frontend, backend and PostgreSQL**.
 
 </div>
 
-<br>
-
 ---
 
-# How I think about learning
+# How I learn
 
 I'm less interested in collecting technologies and more interested in developing the ability to **understand difficult things**.
 
 <div align="center">
 
-### 🧠 How I Learn
+### How I Learn
 
 <br>
 
@@ -270,11 +252,11 @@ Try again.
 
 I don't want to simply memorize solutions.
 
-I want to develop the ability to **derive them**.
+**I want to develop the ability to derive them.**
 
 ---
 
-# A long-term direction
+# Looking ahead
 
 I don't have my entire career mapped out.
 
@@ -286,7 +268,7 @@ Maybe systems.
 
 Maybe something I haven't discovered yet.
 
-But there is one direction that keeps pulling me back:
+But one direction keeps pulling me back:
 
 **mathematics.**
 
@@ -326,7 +308,7 @@ For now, I'm building the foundation.
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:ferreira.natamleao@gmail.com">
+<a href="mailto:[ferreira.natamleao@gmail.com](mailto:ferreira.natamleao@gmail.com)">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
