@@ -13,59 +13,100 @@
 <!-- TAGLINE -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=fcffff&center=true&vCenter=true&width=1000&lines=Trying+to+understand+what+happens+underneath+the+abstractions;Building+foundations+through+code%2C+mathematics+and+reasoning;Learning+how+to+solve+hard+problems" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=22&height=80&duration=3500&pause=1000&color=fcffff&center=true&vCenter=true&width=1000&lines=Curious+about+how+things+really+work;Learning+to+think+through+hard+problems;Building+foundations%2C+one+step+at+a+time" />
 </p>
-
-<br>
 
 ---
 
 # About me
 
-I'm a Computer Science student interested in understanding **how things actually work underneath the abstractions**.
+I'm a Computer Science student who is still figuring out where Computer Science will take me.
 
-I enjoy working close to the fundamentals — algorithms, data structures, networks, systems, machine learning and the mathematics behind computation.
+I'm interested in many different areas — from **algorithms and programming to artificial intelligence, cybersecurity and computer systems**. I don't have a single specialization in mind yet, and I'm okay with that.
 
-* 💻 Focused on **C/C++ and Python**
+What I do know is that I enjoy **mathematics, difficult problems and understanding things deeply**.
+
+* 💻 Learning **C/C++ and Python**
 * 🐧 Linux user
-* 🧠 Interested in **algorithms, systems and problem solving**
-* 🔬 Curious about **mathematics, AI and theoretical foundations**
-* 📚 Currently focused on building stronger fundamentals
-* 🛠️ I learn by **building things and figuring out why they work**
+* 🧠 Interested in algorithms, computation and problem solving
+* 📐 Passionate about mathematics
+* 🔬 Curious about the fundamental principles behind things
+* 📚 Currently focused on strengthening my foundations
 
-> **Understanding comes before optimization.**
+> I don't need to know exactly where I'm going yet.
+> I need to become capable of going wherever curiosity takes me.
 
 ---
 
-# Currently learning
+# What I'm exploring
 
-I'm currently strengthening the foundations that allow me to tackle increasingly difficult problems.
+Computer Science is a huge field, and I'm still exploring it.
+
+Some of the areas that have caught my attention:
+
+<div align="center">
+
+`Algorithms` · `Data Structures` · `Artificial Intelligence`
+`Cybersecurity` · `Computer Systems` · `Networking`
+`Programming` · `Mathematics` · `Machine Learning`
+
+</div>
+
+I don't see these as boxes I need to choose between right now.
+
+**I'm experimenting, building and learning until something pulls me deeper.**
+
+---
+
+# Mathematics
+
+Mathematics is the part of my intellectual journey that I feel most strongly about.
+
+I want to develop a **serious mathematical foundation**, not simply learn enough mathematics to pass a course.
+
+My long-term ambition is to become mathematically strong enough to eventually study **theoretical physics** seriously.
+
+That means starting from the foundations and going much deeper over time:
 
 ```text
-Algorithms & Data Structures
-        ↓
-Computer Systems & Networks
-        ↓
-C / C++ and low-level programming
-        ↓
-Mathematics for Computer Science
-        ↓
-Machine Learning & Artificial Intelligence
+Arithmetic
+    ↓
+Algebra
+    ↓
+Geometry & Trigonometry
+    ↓
+Calculus
+    ↓
+Linear Algebra
+    ↓
+Differential Equations
+    ↓
+Probability & Statistics
+    ↓
+Real Analysis
+    ↓
+Abstract Algebra
+    ↓
+Advanced Mathematics
+    ↓
+Theoretical Physics
 ```
 
-My long-term goal is to go deeper into **mathematics, theoretical computer science and physics**.
+It's a long road.
+
+That's exactly what makes it interesting.
 
 ---
 
 # Projects
 
-A few things I've built while learning:
+I learn best by building things, so these are some of the projects I've worked on.
 
 ### 🧠 Perceptron Neural Network
 
-A supervised learning implementation built **from scratch in Python**, including training and visualization of the decision boundary.
+A supervised learning implementation built from scratch in **Python**, including visualization of the decision boundary.
 
-**Focus:** machine learning fundamentals, linear classification and mathematical intuition.
+**Explored:** machine learning fundamentals, linear classification and mathematical intuition.
 
 ---
 
@@ -73,43 +114,43 @@ A supervised learning implementation built **from scratch in Python**, including
 
 A practical comparison between **Heap Sort and Insertion Sort**, combining theoretical complexity analysis with actual execution-time measurements.
 
-**Focus:** algorithms, asymptotic complexity and empirical analysis.
+**Explored:** algorithms, asymptotic complexity and empirical analysis.
 
 ---
 
 ### 🔑 Adaptive Hash Table — Digit Analysis
 
-An exploration of hashing strategies guided by the **distribution of the input data**, investigating how the characteristics of the data can influence hashing behavior.
+An exploration of hashing strategies influenced by the **distribution of the input data**.
 
-**Focus:** data structures, hashing and algorithmic reasoning.
+**Explored:** data structures, hashing and algorithmic reasoning.
 
 ---
 
 ### 🌐 TCP Multi-Client Server
 
-A socket-based server capable of handling **multiple clients simultaneously** and providing different services through TCP.
+A socket-based server capable of handling **multiple clients** and providing different services through TCP.
 
-**Focus:** computer networks, sockets, concurrency and client-server architecture.
+**Explored:** networking, sockets, concurrency and client-server architecture.
 
 ---
 
 ### 🗂️ Task Manager — Web + PostgreSQL
 
-A complete application integrating **frontend, backend and PostgreSQL**, built to explore how the different layers of a software system interact.
+A complete application integrating **frontend, backend and PostgreSQL**.
 
-**Focus:** web development, databases, APIs and software architecture.
+**Explored:** web development, databases, APIs and software architecture.
 
 ---
 
 <div align="center">
 
-### → [Explore all my projects in my portfolio](https://natamleao.github.io/portfolio/)
+### [→ Explore my portfolio](https://natamleao.github.io/portfolio/)
 
 </div>
 
 ---
 
-# Technical stack
+# Tools I use
 
 <div align="center">
 
@@ -127,43 +168,53 @@ A complete application integrating **frontend, backend and PostgreSQL**, built t
 
 ---
 
-# How I like to learn
+# How I think about learning
 
-I prefer understanding the **why** before worrying about the **how**.
+I'm less interested in collecting technologies and more interested in developing the ability to **understand difficult things**.
 
 ```text
-First principles
-      ↓
-Understand the problem
-      ↓
-Build a simple solution
-      ↓
-Measure and experiment
-      ↓
-Find weaknesses
-      ↓
-Improve the solution
+Be curious
+    ↓
+Ask why
+    ↓
+Learn the fundamentals
+    ↓
+Build something
+    ↓
+Break it
+    ↓
+Understand why it broke
+    ↓
+Try again
 ```
 
-I don't want to simply know that something works.
+I don't want to simply memorize solutions.
 
-**I want to understand why it works.**
+I want to develop the ability to **derive them**.
 
 ---
 
-# What I care about
+# A long-term direction
 
-<div align="center">
+I don't have my entire career mapped out.
 
-| Principle            |                     |
-| :------------------- | :------------------ |
-| **Understanding**    | over memorization   |
-| **Foundations**      | over shortcuts      |
-| **First principles** | over black boxes    |
-| **Building**         | over just consuming |
-| **Curiosity**        | over credentials    |
+Maybe I'll go deeper into AI.
 
-</div>
+Maybe cybersecurity.
+
+Maybe systems.
+
+Maybe something I haven't discovered yet.
+
+But there is one direction that keeps pulling me back:
+
+**mathematics.**
+
+And somewhere beyond it:
+
+**theoretical physics.**
+
+For now, I'm building the foundation.
 
 ---
 
@@ -210,7 +261,7 @@ I don't want to simply know that something works.
 </div>
 
 <p align="center">
-  Want to discuss <b>AI, mathematics, algorithms or low-level systems?</b><br>
+  Want to discuss <b>AI, mathematics, algorithms, physics or programming?</b><br>
   Come say hello.
 </p>
 
