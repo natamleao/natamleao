@@ -46,9 +46,24 @@ Some of the areas that have caught my attention:
 
 <div align="center">
 
-`Algorithms` · `Data Structures` · `Artificial Intelligence`
-`Cybersecurity` · `Computer Systems` · `Networking`
-`Programming` · `Mathematics` · `Machine Learning`
+### 🔭 Areas I'm Exploring
+
+<br>
+
+<img src="https://img.shields.io/badge/Algorithms-8BE9FD?style=for-the-badge&logo=thealgorithms&logoColor=282A36"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-BD93F9?style=for-the-badge&logo=openai&logoColor=282A36"/>
+<img src="https://img.shields.io/badge/Cybersecurity-FF79C6?style=for-the-badge&logo=kalilinux&logoColor=282A36"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Computer%20Systems-6272A4?style=for-the-badge&logo=linux&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Networking-50FA7B?style=for-the-badge&logo=cisco&logoColor=282A36"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-F8F8F2?style=for-the-badge&logoColor=282A36"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Mathematics-FFB86C?style=for-the-badge&logo=wolframmathematica&logoColor=282A36"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-BD93F9?style=for-the-badge&logo=scikitlearn&logoColor=282A36"/>
 
 </div>
 
@@ -68,29 +83,73 @@ My long-term ambition is to become mathematically strong enough to eventually st
 
 That means starting from the foundations and going much deeper over time:
 
-```text
-Arithmetic
-    ↓
-Algebra
-    ↓
+<div align="center">
+
+### 📐 Mathematical Journey
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+<b>Foundations</b><br><br>
+
+Arithmetic<br>
+↓<br>
+Algebra<br>
+↓<br>
 Geometry & Trigonometry
-    ↓
-Calculus
-    ↓
-Linear Algebra
-    ↓
-Differential Equations
-    ↓
+
+</td>
+
+<td width="50"></td>
+
+<td align="center">
+
+<b>Core Mathematics</b><br><br>
+
+Calculus<br>
+↓<br>
+Linear Algebra<br>
+↓<br>
+Differential Equations<br>
+↓<br>
 Probability & Statistics
-    ↓
-Real Analysis
-    ↓
+
+</td>
+</tr>
+
+<tr>
+<td colspan="3" height="30"></td>
+</tr>
+
+<tr>
+<td align="center">
+
+<b>Advanced Mathematics</b><br><br>
+
+Real Analysis<br>
+↓<br>
 Abstract Algebra
-    ↓
-Advanced Mathematics
-    ↓
+
+</td>
+
+<td width="50"></td>
+
+<td align="center">
+
+<b>Long-Term Direction</b><br><br>
+
+Mathematical Physics<br>
+↓<br>
 Theoretical Physics
-```
+
+</td>
+</tr>
+</table>
+
+</div>
 
 It's a long road.
 
@@ -160,33 +219,52 @@ A complete application integrating **frontend, backend and PostgreSQL**.
 
 <br>
 
-<div align="center">
-
-`C` · `C++` · `Python` · `Git` · `Linux` · `PostgreSQL` · `Jupyter`
-
-</div>
-
 ---
 
 # How I think about learning
 
 I'm less interested in collecting technologies and more interested in developing the ability to **understand difficult things**.
 
-```text
-Be curious
-    ↓
-Ask why
-    ↓
-Learn the fundamentals
-    ↓
-Build something
-    ↓
-Break it
-    ↓
-Understand why it broke
-    ↓
-Try again
-```
+<div align="center">
+
+### 🧠 How I Learn
+
+<br>
+
+<table>
+<tr>
+<td align="center"><b>01</b><br><br>Be curious</td>
+<td>→</td>
+<td align="center"><b>02</b><br><br>Ask why</td>
+<td>→</td>
+<td align="center"><b>03</b><br><br>Learn the fundamentals</td>
+</tr>
+
+<tr>
+<td colspan="5" height="20"></td>
+</tr>
+
+<tr>
+<td align="center"><b>04</b><br><br>Build something</td>
+<td>→</td>
+<td align="center"><b>05</b><br><br>Break it</td>
+<td>→</td>
+<td align="center"><b>06</b><br><br>Understand why it broke</td>
+</tr>
+
+<tr>
+<td colspan="5" height="20"></td>
+</tr>
+
+<tr>
+<td colspan="5" align="center">
+<b>07</b><br><br>
+Try again.
+</td>
+</tr>
+</table>
+
+</div>
 
 I don't want to simply memorize solutions.
 
