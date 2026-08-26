@@ -203,7 +203,9 @@ A complete application integrating **frontend, backend and PostgreSQL**.
 
 <div align="center">
 
-### [→ Explore my portfolio](https://natamleao.github.io/portfolio/)
+<a href="https://natamleao.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-BD93F9?style=for-the-badge&logo=rocket&logoColor=282A36"/>
+</a>
 
 </div>
 
