@@ -26,12 +26,12 @@ I'm interested in many different areas — from **algorithms and programming to 
 
 What I do know is that I enjoy **mathematics, difficult problems and understanding things deeply**.
 
-* 💻 Learning **C/C++ and Python**
-* 🐧 Linux user
-* 🧠 Interested in algorithms, computation and problem solving
-* 📐 Passionate about mathematics
-* 🔬 Curious about the fundamental principles behind things
-* 📚 Currently focused on strengthening my foundations
+* Learning **C/C++ and Python**
+* Linux user
+* Interested in algorithms, computation and problem solving
+* Passionate about mathematics
+* Curious about the fundamental principles behind things
+* Currently focused on strengthening my foundations
 
 > I don't need to know exactly where I'm going yet.
 > I need to become capable of going wherever curiosity takes me.
@@ -102,7 +102,7 @@ That's exactly what makes it interesting.
 
 I learn best by building things, so these are some of the projects I've worked on.
 
-### 🧠 Perceptron Neural Network
+### Perceptron Neural Network
 
 A supervised learning implementation built from scratch in **Python**, including visualization of the decision boundary.
 
@@ -110,7 +110,7 @@ A supervised learning implementation built from scratch in **Python**, including
 
 ---
 
-### ⚡ Compare Heap vs Insertion Sorts
+### Compare Heap vs Insertion Sorts
 
 A practical comparison between **Heap Sort and Insertion Sort**, combining theoretical complexity analysis with actual execution-time measurements.
 
@@ -118,7 +118,7 @@ A practical comparison between **Heap Sort and Insertion Sort**, combining theor
 
 ---
 
-### 🔑 Adaptive Hash Table — Digit Analysis
+### Adaptive Hash Table — Digit Analysis
 
 An exploration of hashing strategies influenced by the **distribution of the input data**.
 
@@ -126,7 +126,7 @@ An exploration of hashing strategies influenced by the **distribution of the inp
 
 ---
 
-### 🌐 TCP Multi-Client Server
+### TCP Multi-Client Server
 
 A socket-based server capable of handling **multiple clients** and providing different services through TCP.
 
@@ -134,7 +134,7 @@ A socket-based server capable of handling **multiple clients** and providing dif
 
 ---
 
-### 🗂️ Task Manager — Web + PostgreSQL
+### Task Manager — Web + PostgreSQL
 
 A complete application integrating **frontend, backend and PostgreSQL**.
 
