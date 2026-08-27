@@ -279,7 +279,7 @@ And somewhere beyond it:
 For now, I'm building the foundation.
 
 ---
-
+<!--
 # GitHub activity
 
 <div align="center">
@@ -289,7 +289,7 @@ For now, I'm building the foundation.
 </div>
 
 ---
-
+-->
 # Pac-Man contributions
 
 <div align="center">
